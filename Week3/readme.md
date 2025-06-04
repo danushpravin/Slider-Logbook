@@ -22,7 +22,7 @@ This week focused on addressing issues with my RL agent for the slider robot. Pr
 
 *A sample plot of reward progression over time is included below (add your actual plot here if embedding).*
 
-![Reward Plot](./Slider-Logbook/Week3/Screenshot from 2025-06-04 22-32-41)
+![Reward Plot](./Slider-Logbook/Week3/Screenshot from 2025-06-04 22-32-41.png)
 
 ---
 
